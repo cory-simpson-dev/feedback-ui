@@ -11,11 +11,6 @@
       "text": "This is feedback item21 coming from backend"
     },
     {
-      "id": 3,
-      "rating": 4,
-      "text": "This is feedback item 3 coming from backend"
-    },
-    {
       "text": "This is another test plus 1",
       "rating": 7,
       "id": 4

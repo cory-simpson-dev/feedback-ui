@@ -1,3 +1,8 @@
 # Feedback UI
 
-Frontend React application.
+React UI for user feedback. 
+
+## Technology
+
+- React
+- json-server (local backend)
